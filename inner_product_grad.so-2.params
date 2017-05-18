@@ -1,0 +1,6 @@
+-whole-archive
+bazel-out/local-py3-opt/bin/tensorflow/core/user_ops/_objs/inner_product_grad.so/tensorflow/core/user_ops/src/inner_product_grad.pic.o
+-no-whole-archive
+-lm
+-lstdc++
+-lm
